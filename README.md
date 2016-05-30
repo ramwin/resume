@@ -14,7 +14,7 @@
 * python
 * django
     * 可以使用django搭建网站
-    * [数据邦](#数据邦)
+    * [数据邦](####数据邦)
     * [个人网站项目](http://github.com/ramwin/django_tutorial)
 * git
     * 经常使用git, github
