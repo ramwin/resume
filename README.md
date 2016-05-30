@@ -14,7 +14,7 @@
 * python
 * django
     * 可以使用django搭建网站
-    * [数据邦](####数据邦)
+    * [数据邦](#zettage)
     * [个人网站项目](http://github.com/ramwin/django_tutorial)
 * git
     * 经常使用git, github
@@ -40,6 +40,7 @@
 
 
 ### 项目经验
+<div id="zettage"></div>
 #### * 数据邦
 * 简介: 一个云计算,云共享平台,用户可以把他们自己写的脚本,数据放入该平台,可以实现数据脚本共享,交易,在线分析等功能
 * 主要技术: django, python, docker
