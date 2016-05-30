@@ -29,8 +29,14 @@
 
 ### 工作经历
 时间 | 公司 | 岗位 
+---------- | ----------
 2014.07 - 2015.06 | **中天科技集团** | *工艺员*
 2015.06 - 2016.05 | **南京振古信息科技有限公司** | *全栈工程师*
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 ### 项目经验
