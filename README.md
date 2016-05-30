@@ -14,7 +14,7 @@
 * python
 * django
     * 可以使用django搭建网站
-    * [数据邦](http://www.zettage.net/)
+    * [数据邦](#数据邦)
     * [项目地址](http://github.com/ramwin/django_tutorial)
 * git
     * 经常使用git, github
@@ -38,6 +38,7 @@
 
 
 ### 项目经验
+##### 数据邦
 
 ### 自我评价
 * 自学能力强
