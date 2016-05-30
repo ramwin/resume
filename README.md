@@ -16,6 +16,8 @@
     * 可以使用django搭建网站
     * [数据邦](#zettage)
     * [个人网站项目](http://github.com/ramwin/django_tutorial)
+* flask
+	* [数据分析](#tv)
 * git
     * 经常使用git, github
     * 会搭建git仓库
@@ -30,6 +32,8 @@
 * MySQL
 * 密码学
 * 算法
+* JAVA
+	* 不熟。但使用 [guacamole](http://guacamole.incubator.apache.org/) 制作过一个tomcat应用，实现网页上远程操作局域网内部的电脑。
 
 ### 工作经历
 
@@ -40,14 +44,29 @@
 
 
 ### 项目经验
-<div id="zettage"></div>
+<div id="zettage"></div>  
+
 #### * 数据邦
 * 简介: 一个云计算,云共享平台,用户可以把他们自己写的脚本,数据放入该平台,可以实现数据脚本共享,交易,在线分析等功能
 * 主要技术: django, python, docker
+* 个人职责:
+    0. git服务器的搭建
+    1. 数据库设计
+    2. 后台罗辑业务的实现
+    3. 和前端的交互
+    4. 调用底层docker的接口, 对对应的服务进行操作
 * [查看详情](./zettage/README.md)
 
+<div id="tv"></div>
 
 #### * 数据分析
+* 简介: 根据客户提供的数据,提供对应的HTTP服务,让客户能够进行数据分析
+* 主要技术: flask, python, e-charts, redis
+* 个人职责:
+    1. 网站后台服务搭建
+    2. 数据库优化
+    3. 提供前端获取数据的API
+* [查看详情](./tv/README.md)
 
 ### 自我评价
 * 自学能力强
