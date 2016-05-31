@@ -76,8 +76,15 @@
     * [PM25.in](http://pm25.in/);
     * [绿色呼吸网](http://www.pm25.com);
     * [国家地表水水质自动监测实时数据发布系统](http://58.68.130.147/);
+
+#### * 其他项目
+* [python学习](https://github.com/ramwin/python_tutorial/)
+* [django学习](https://github.com/ramwin/django_tutorial/)
+* [javascript学习](https://github.com/ramwin/javascript_tutorial/)
+* [Linux学习](https://github.com/ramwin/linux_tutorial/)
+* [Leetcode训练](https://github.com/ramwin/leetcode/)
 ### 自我评价
-* 自学能力强
-* 热爱编程，善于动手
-* 英语6级，可以较为顺利地看英文资料,文档,
-* 吃苦耐劳
+* 自学能力强;
+* 热爱编程，善于动手;
+* 英语6级，可以基本无障碍地看英文资料,文档;
+* 吃苦耐劳;
