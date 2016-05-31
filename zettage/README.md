@@ -1,4 +1,4 @@
-**Author**: *Xiang Wang* @   2016-05-30 15:47:42  
+**Author**: *[Xiang Wang](../README.md)* @   2016-05-30 15:47:42  
 **e-mail**: [*ramwin@qq.com*](mailto:ramwin@qq.com)  
 
 # 数据邦项目简介
@@ -39,3 +39,5 @@
 ### 工具模块
 ![工具发布](./img/工具发布.png)
 调用同事提供的`restful api`接口，实现工具上传，发布服务等功能。
+
+[查看所有简历](../README.md)
