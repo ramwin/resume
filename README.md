@@ -1,6 +1,7 @@
 ## 王祥的简历
 ###  基础信息
 * 姓名: **王祥**
+* 性别: **男**
 * 电话: *170-888-43408*
 * 邮箱: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * 出生年月: **1992.01**
@@ -82,7 +83,8 @@
 * [django学习](https://github.com/ramwin/django_tutorial/)
 * [javascript学习](https://github.com/ramwin/javascript_tutorial/)
 * [Linux学习](https://github.com/ramwin/linux_tutorial/)
-* [Leetcode训练](https://github.com/ramwin/leetcode/)
+* [Leetcode训练](https://github.com/ramwin/leetcode/)  
+
 ### 自我评价
 * 自学能力强;
 * 热爱编程，善于动手;
