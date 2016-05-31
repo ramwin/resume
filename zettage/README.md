@@ -8,7 +8,7 @@
 
 ### 用户注册登录模块
 ![注册登录](./img/注册登录.png)  
-利用所学的密码学知识，实现了一个网页的RSA基础加密功能。  
+利用所学的密码学知识，实现了一个网页的`RSA`基础加密功能。  
 [javascript加密代码](https://github.com/ramwin/javascript_tutorial/blob/master/ramwin1_convert.js)  
 [python解密代码](https://github.com/ramwin/javascript_tutorial/blob/master/xor_crypto.py)
 
@@ -20,8 +20,11 @@
 
 ### 工作台
 ![工作台](./img/工作台.png)  
-后台由我的同事使用docker来创建各种应用，并提供 restful api。我根据前端传递的参数来调用后台接口。  
-但是我也能够使用docker的基础命令，创建保存镜像，实现各个应用之间的环境隔离。  
+使用 [guacamole](http://guacamole.incubator.apache.org/) 制作过一个`tomcat`应用，让用户能够直接打开网页操作他的云主机。  
+[我的项目地址](https://github.com/ramwin/my_guacamole_sample)  
+[JAVA代码](https://github.com/ramwin/my_guacamole_sample/tree/master/src/main/java/net/sourceforge/guacamole/net/example)  
+后台由我的同事使用`docker`来创建各种应用，并提供`restful api`。我根据前端传递的参数来调用后台接口。  
+但是我也能够使用`docker`的基础命令，创建保存镜像，实现各个应用之间的环境隔离。  
 [我使用过的docker镜像](https://hub.docker.com/u/ramwin/starred/)  
 
 ### 充值交易模块
@@ -31,8 +34,8 @@
 
 ### 传感器模块
 ![实时数据](./img/实时数据.png)  
-利用 redis, kafka, flask 实现大数据的增删改查功能。让用户能够自定义传感器，
+利用`redis`，`kafka`，`flask`实现大数据的增删改查功能。让用户能够自定义传感器，上传传感器数据，查看传感器数据。 配合工作台的工具，用户可以实时监控设备运行状况
 
 ### 工具模块
 ![工具发布](./img/工具发布.png)
-调用同事提供的 restful api 接口，实现工具上传，发布服务等功能。
+调用同事提供的`restful api`接口，实现工具上传，发布服务等功能。
