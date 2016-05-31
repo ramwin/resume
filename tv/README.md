@@ -1,4 +1,4 @@
-**Author**: *Xiang Wang* @   2016-05-31 10:54:07  
+**Author**: *[Xiang Wang](../README.md)* @   2016-05-31 10:54:07  
 **e-mail**: [*ramwin@qq.com*](mailto:ramwin@qq.com)  
 
 # 点播数据分析简介
@@ -19,4 +19,6 @@
 
 ![区域分析](./img/区域分析.png)
 
-提供前端调用的接口，根据前端的需求编写`SQL`语句返回数据
+提供前端调用的接口，根据前端的需求编写`SQL`语句返回数据  
+
+[查看所有简历](../README.md)
