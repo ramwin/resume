@@ -13,8 +13,8 @@
 2010.09 - 2014.07 | **上海交通大学** | *化学化工学院*
 
 ### 工作技能
-* python
-* django
+* [python](https://github.com/ramwin/python_tutorial/)
+* [django](https://github.com/ramwin/django_tutorial/)
     * 可以使用django搭建网站
     * [数据邦](#zettage)
     * [个人网站项目](http://github.com/ramwin/django_tutorial)
@@ -23,7 +23,7 @@
 * git
     * 经常使用git, github
     * 会搭建git仓库
-* HTML, JS, CSS, jQuery
+* [HTML, JS, CSS, jQuery](https://github.com/ramwin/javascript_tutorial/)
     * 会用JS, jQuery进行前后端交互
     * 能实现一些滚动条,轮播图的效果
     * [振古科技官网](http://www.zettage.com)
@@ -35,7 +35,7 @@
 * 密码学
 * 算法
 * JAVA
-	* 不熟。但使用 [guacamole](http://guacamole.incubator.apache.org/) 制作过一个tomcat应用，实现网页上远程操作局域网内部的电脑。
+	* 不熟。曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个tomcat应用，实现网页上远程操作局域网内部的电脑。
 
 ### 工作经历
 
@@ -78,13 +78,6 @@
     * [PM25.in](http://pm25.in/);
     * [绿色呼吸网](http://www.pm25.com);
     * [国家地表水水质自动监测实时数据发布系统](http://58.68.130.147/);
-
-#### * 其他项目
-* [python学习](https://github.com/ramwin/python_tutorial/)
-* [django学习](https://github.com/ramwin/django_tutorial/)
-* [javascript学习](https://github.com/ramwin/javascript_tutorial/)
-* [Linux学习](https://github.com/ramwin/linux_tutorial/)
-* [Leetcode训练](https://github.com/ramwin/leetcode/)  
 
 ### 自我评价
 * 自学能力强;
