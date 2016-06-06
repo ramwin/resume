@@ -48,9 +48,9 @@ Time | Company | Position
 <div id="zettage"></div>  
 
 #### Zettage daas
-* introduction:  a cloud computing, cloud sharing platform where uses can share their scripy, tool, data or purchase other's scripy, tool, data and analysis online.
-* technology: django, python, docker, 
-* responsibility:
+* Introduction:  a cloud computing, cloud sharing platform where uses can share their scripy, tool, data or purchase other's scripy, tool, data and analysis online.
+* Technology: django, python, docker, 
+* Responsibility:
     0. establish the git server and control the branch, version of project
     1. desig the structure of database in a clear and week coupling way
     2. the backend logic
@@ -62,18 +62,18 @@ Time | Company | Position
 
 <div id="tv"></div>
 
-#### order data analysis
-* introduction: Use the order provided by the customer, build a website for data analysis
-* techology: flask, python, e-charts, redis
-* responsibility:
+#### Order data analysis
+* Introduction: Use the order provided by the customer, build a website for data analysis
+* Techology: flask, python, e-charts, redis
+* Responsibility:
     0. the backend server of the website
     1. optimize the database, use memory database (redis) to accelerate the query speed
     3. provice the API for front end engineer
 * [See details](./tv/README.md)
 
-#### spider script
-* introduction: crawl the environment data using scrpy, mysql, cron
-* data source: 
+#### Spider script
+* Introduction: crawl the environment data using scrpy, mysql, cron
+* Data source: 
     * [PM25.in](http://pm25.in/);
     * [green breathe](http://www.pm25.com);
     * [The national surface water quality automatic detection in real time data publishing system](http://58.68.130.147/);
