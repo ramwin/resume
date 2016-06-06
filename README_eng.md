@@ -66,9 +66,9 @@ Time | Company | Position
 * Introduction: Use the order provided by the customer, build a website for data analysis
 * Technology: flask, python, e-charts, redis
 * Responsibility:
-    0. the backend server of the website
-    1. optimize the database, use memory database (redis) to accelerate the query speed
-    3. provice the API for front end engineer
+    0. the back end service of the website
+    1. optimize the database, use memory database (redis) to accelerate the query performance
+    3. provide the API for front end engineer
 * [See details](./tv/README.md)
 
 #### Spider script
