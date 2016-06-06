@@ -21,37 +21,36 @@ Time | School | Major
 * flask
 	* [data analysis](#tv)
 * git
-    * use git and github frequently
-    * 会搭建git仓库
+    * used to control the version and branch of my project using git and github
 * [HTML, JS, CSS, jQuery](https://github.com/ramwin/javascript_tutorial/)
-    * 会用JS, jQuery进行前后端交互
-    * 能实现一些滚动条,轮播图的效果
-    * [振古科技官网](http://www.zettage.com)
+    * interaction using javascript, jQuery
+    * can realize some effects such as toggle or slide
+    * [zettage.com](http://www.zettage.com)
 * redis
-    * 知道redis的数据结构,能利用redis的数据结构做消息队列,计数器
+    * know the basic structure of redis (I like to use the list as a message queue).
 * docker
-    * 会使用docker来启动服务,制作docker镜像,服务的docker可以减少对环境的依赖,有利于服务的维护
+    * be used to use docker to run different service on my computer
 * MySQL
-* 密码学
-* 算法
+* cryptography
+* algorithm
 * JAVA
-	* 不熟。曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个tomcat应用，实现网页上远程操作局域网内部的电脑。
+	* not familiar. Once following the tutorial of [guacamole](http://guacamole.incubator.apache.org/) to build a [servlet app](https://github.com/ramwin/my_guacamole_sample/), which can be used to control the computers inside the local lan.
 
-### 工作经历
+### Working Experience
 
-时间 | 公司名称 | 岗位
+Time | Company | Position
 ------------ | ------------- | -------------
-2014.07 - 2015.06 | **中天科技集团** | *工艺员*
-2015.06 - 2016.05 | **南京振古信息科技有限公司** | *全栈工程师*
+2014.07 - 2015.06 | **ZTT** | *Technologist*
+2015.06 - 2016.05 | **南京振古信息科技有限公司** | *Full Stack Developer*
 
 
-### 项目经验
+### Project Experience
 <div id="zettage"></div>  
 
-#### * 数据邦
-* 简介: 一个云计算,云共享平台,用户可以把他们自己写的脚本,数据放入该平台,可以实现数据脚本共享,交易,在线分析等功能
-* 主要技术: django, python, docker, 
-* 个人职责:
+#### * Zettage daas
+* introduction:  a cloud computing, cloud sharing platform where uses can share their scripy, tool, data or purchase other's scripy, tool, data and analysis online.
+* technology: django, python, docker, 
+* responsibility:
     0. git服务器的搭建
     1. 数据库设计
     2. 后台罗辑业务的实现
