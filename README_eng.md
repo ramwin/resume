@@ -15,17 +15,17 @@ Time | School | Major
 ### Skill
 * [python](https://github.com/ramwin/python_tutorial/)
 * [django](https://github.com/ramwin/django_tutorial/)
-    * establish an website using django
-    * [zettage](#zettage)
+    * able to establish an website using django
+    * [zettage daas project](#zettage)
     * [personal website](http://github.com/ramwin/django_tutorial)
 * flask
-	* [data analysis](#tv)
+	* [order data analysis](#tv)
 * git
     * used to control the version and branch of my project using git and github
 * [HTML, JS, CSS, jQuery](https://github.com/ramwin/javascript_tutorial/)
     * interaction using javascript, jQuery
     * can realize some effects such as toggle or slide
-    * [zettage.com](http://www.zettage.com)
+    * [zettage.com](#homepage)
 * redis
     * know the basic structure of redis (I like to use the list as a message queue).
 * docker
@@ -77,6 +77,16 @@ Time | Company | Position
     * [PM25.in](http://pm25.in/);
     * [green breathe](http://www.pm25.com);
     * [The national surface water quality automatic detection in real time data publishing system](http://58.68.130.147/);
+
+<div id="homepage"></div>
+
+#### Zettage homepage
+* Introduction: Homepage of Zettage company, [visit it](http://www.zettage.com).
+* Responsibility:
+    * the website is set up all by myself, including:
+    * manage the online server
+    * write the basic html
+    * beautify the website using javascript and css (all the javascript and css code is written by myself except the `jQuery.min.js`).
 
 ### Self-judgement
 * strong self-learning ability(taught myself django, mysql, javascript);

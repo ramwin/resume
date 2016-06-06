@@ -26,7 +26,7 @@
 * [HTML, JS, CSS, jQuery](https://github.com/ramwin/javascript_tutorial/)
     * 会用JS, jQuery进行前后端交互
     * 能实现一些滚动条,轮播图的效果
-    * [振古科技官网](http://www.zettage.com)
+    * [振古科技官网](#homepage)
 * redis
     * 知道redis的数据结构,能利用redis的数据结构做消息队列,计数器
 * docker
@@ -78,6 +78,16 @@
     * [PM25.in](http://pm25.in/);
     * [绿色呼吸网](http://www.pm25.com);
     * [国家地表水水质自动监测实时数据发布系统](http://58.68.130.147/);
+
+<div id="homepage"></div>
+
+#### 振古公司主页
+* 简介: 南京振古信息科技有限公司主页，[浏览](http://www.zettage.com/).
+* 个人职责:
+    * 这个主页是我一个人独立完成的项目，包括：
+    * 阿里云服务器管理
+    * 编写html页面
+    * 用js, css美化页面(除了`jQuery.min.js`, 其余js,css都是我自己独立完成的)
 
 ### 自我评价
 * 自学能力强(自学django, mysql, javascript);
