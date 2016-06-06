@@ -35,7 +35,7 @@
 * 密码学
 * 算法
 * JAVA
-	* 不熟。曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个tomcat应用，实现网页上远程操作局域网内部的电脑。
+	* 不熟。曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个[tomcat应用](https://github.com/ramwin/my_guacamole_sample/)，实现网页上远程操作局域网内部的电脑。
 
 ### 工作经历
 
