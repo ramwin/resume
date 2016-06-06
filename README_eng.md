@@ -48,7 +48,7 @@ Time | Company | Position
 <div id="zettage"></div>  
 
 #### Zettage daas
-* Introduction:  a cloud computing, sharing platform where uses can share their script, tool, data or purchase other's script, tool, data and analysis online.
+* Introduction:  a cloud computing, sharing platform where uses can share their script, tool, data and purchase other's script, tool, data and analysis online.
 * Technology: django, python, docker, 
 * Responsibility:
     0. establish the git server and control the branch, version of project
