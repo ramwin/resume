@@ -30,19 +30,19 @@
 * redis
     * 知道redis的数据结构,能利用redis的数据结构做消息队列,计数器
 * docker
-    * 会使用docker来启动服务,制作docker镜像,服务的docker可以减少对环境的依赖,有利于服务的维护
+    * 会使用docker来启动服务,制作docker镜像,服务。以此可以减少对环境的依赖,有利于服务的维护
 * MySQL
 * 密码学
 * 算法
 * JAVA
-	* 不熟。曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个[servlet应用](https://github.com/ramwin/my_guacamole_sample/)，实现网页上远程操作局域网内部的电脑。
+	* 不熟。曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个[servlet应用](https://github.com/ramwin/my_guacamole_sample/)，实现网页上远程操作局域网内部的电脑的功能。
 
 ### 工作经历
 
 时间 | 公司名称 | 岗位
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **中天科技集团** | *工艺员*
-2015.06 - 2016.05 | **南京振古信息科技有限公司** | *全栈工程师*
+2015.06 - 2016.06 | **南京振古信息科技有限公司** | *全栈工程师*
 
 
 ### 项目经验
@@ -54,9 +54,9 @@
 * 个人职责:
     0. git服务器的搭建
     1. 数据库设计
-    2. 后台罗辑业务的实现
+    2. 后台逻辑业务的实现
     3. 和前端的交互
-    4. 调用底层docker的接口, 对对应的服务进行操作
+    4. 调用底层docker的接口, 对相应的服务进行操作
     5. 利用redis, kafka, flask实现了一个提供了增删改查api接口的应用,让用户可以上传并查看他们的传感器数据/流式数据。
     6. 调用支付宝API,实现用户充值支付功能
 * [查看详情](./zettage/README.md)
@@ -64,7 +64,7 @@
 <div id="tv"></div>
 
 #### 数据分析
-* 简介: 根据客户提供的数据,提供对应的HTTP服务,让客户能够进行数据分析
+* 简介: 根据客户提供的数据,提供对应的HTTP服务,让客户能够进行数据统计分析
 * 主要技术: flask, python, e-charts, redis
 * 个人职责:
     1. 网站后台服务搭建
@@ -73,7 +73,7 @@
 * [查看详情](./tv/README.md)
 
 #### 爬虫脚本
-* 简介: 利用 scrapy, beautifulsoup, mysql, cron 编写爬虫脚本爬去环境质量的数据
+* 简介: 利用 scrapy, beautifulsoup, mysql, cron 编写爬虫脚本爬取环境质量的数据
 * 爬取网站: 
     * [PM25.in](http://pm25.in/);
     * [绿色呼吸网](http://www.pm25.com);
@@ -82,5 +82,5 @@
 ### 自我评价
 * 自学能力强(自学django, mysql, javascript);
 * 热爱编程，善于动手;
-* 英语6级，可以基本无障碍地看英文资料,文档;
+* 英语6级，可以无障碍地看英文资料,文档;
 * 冷静思考，善于沟通;

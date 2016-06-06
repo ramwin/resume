@@ -41,7 +41,7 @@ Time | School | Major
 Time | Company | Position
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **ZTT** | *Technologist*
-2015.06 - 2016.05 | **Nanjing Zettage Information technology co., ltd** | *Full Stack Developer*
+2015.06 - 2016.06 | **Nanjing Zettage Information technology co., ltd** | *Full Stack Developer*
 
 
 ### Project Experience
