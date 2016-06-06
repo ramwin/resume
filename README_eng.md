@@ -41,7 +41,7 @@ Time | School | Major
 Time | Company | Position
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **ZTT** | *Technologist*
-2015.06 - 2016.05 | **南京振古信息科技有限公司** | *Full Stack Developer*
+2015.06 - 2016.05 | **Nanjing Zettage Information technology co., ltd** | *Full Stack Developer*
 
 
 ### Project Experience
@@ -51,28 +51,28 @@ Time | Company | Position
 * introduction:  a cloud computing, cloud sharing platform where uses can share their scripy, tool, data or purchase other's scripy, tool, data and analysis online.
 * technology: django, python, docker, 
 * responsibility:
-    0. git服务器的搭建
-    1. 数据库设计
-    2. 后台罗辑业务的实现
-    3. 和前端的交互
-    4. 调用底层docker的接口, 对对应的服务进行操作
-    5. 利用redis, kafka, falsk实现了一个提供了增删改查api接口的应用,让用户可以上传并查看他们的传感器数据
-    6. 调用支付宝API,实现用户充值支付功能
-* [查看详情](./zettage/README.md)
+    0. establish the git server and control the branch, version of project
+    1. desig the structure of database in a clear and week coupling way
+    2. the backend logic
+    3. interacting with the front end engineer and discuss the api
+    4. invoke the restful api to create different service for user
+    5. use redis, kafka, flask to build an application for users so that they can invoke the api to upload, delete, modify their streaming data/sensor data.
+    6. read the alipay documentation and implement the function of charge and pay.
+* [See details](./zettage/README.md)
 
 <div id="tv"></div>
 
-#### * 数据分析
-* 简介: 根据客户提供的数据,提供对应的HTTP服务,让客户能够进行数据分析
-* 主要技术: flask, python, e-charts, redis
-* 个人职责:
-    1. 网站后台服务搭建
-    2. 数据库优化,利用redis加sqlite来加速数据查询的速度
-    3. 提供前端获取数据的API
-* [查看详情](./tv/README.md)
+#### * order data analysis
+* introduction: Use the order provided by the customer, build a website for data analysis
+* techology: flask, python, e-charts, redis
+* responsibility:
+    0. the backend server of the website
+    1. optimize the database, use memory database (redis) to accelerate the query speed
+    3. provice the API for front end engineer
+* [See details](./tv/README.md)
 
-#### * 爬虫脚本
-* 简介: 利用 scrapy, beautifulsoup, mysql, cron 编写爬虫脚本爬去环境质量的数据
+#### * spider script
+* introduction: 利用 scrapy, beautifulsoup, mysql, cron 编写爬虫脚本爬去环境质量的数据
 * 爬取网站: 
     * [PM25.in](http://pm25.in/);
     * [绿色呼吸网](http://www.pm25.com);
