@@ -47,7 +47,7 @@ Time | Company | Position
 ### Project Experience
 <div id="zettage"></div>  
 
-#### * Zettage daas
+#### Zettage daas
 * introduction:  a cloud computing, cloud sharing platform where uses can share their scripy, tool, data or purchase other's scripy, tool, data and analysis online.
 * technology: django, python, docker, 
 * responsibility:
@@ -62,7 +62,7 @@ Time | Company | Position
 
 <div id="tv"></div>
 
-#### * order data analysis
+#### order data analysis
 * introduction: Use the order provided by the customer, build a website for data analysis
 * techology: flask, python, e-charts, redis
 * responsibility:
@@ -71,7 +71,7 @@ Time | Company | Position
     3. provice the API for front end engineer
 * [See details](./tv/README.md)
 
-#### * spider script
+#### spider script
 * introduction: 利用 scrapy, beautifulsoup, mysql, cron 编写爬虫脚本爬去环境质量的数据
 * 爬取网站: 
     * [PM25.in](http://pm25.in/);
