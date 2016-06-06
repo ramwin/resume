@@ -64,7 +64,7 @@ Time | Company | Position
 
 #### Order data analysis
 * Introduction: Use the order provided by the customer, build a website for data analysis
-* Techology: flask, python, e-charts, redis
+* Technology: flask, python, e-charts, redis
 * Responsibility:
     0. the backend server of the website
     1. optimize the database, use memory database (redis) to accelerate the query speed
@@ -72,7 +72,7 @@ Time | Company | Position
 * [See details](./tv/README.md)
 
 #### Spider script
-* Introduction: crawl the environment data using scrpy, mysql, cron
+* Introduction: crawl the environmental data using scrpy, mysql, cron
 * Data source: 
     * [PM25.in](http://pm25.in/);
     * [green breathe](http://www.pm25.com);
