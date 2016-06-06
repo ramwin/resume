@@ -73,7 +73,7 @@ Time | Company | Position
 
 #### Spider script
 * Introduction: crawl the environmental data using scrpy, mysql, cron
-* Data source: 
+* Data sources: 
     * [PM25.in](http://pm25.in/);
     * [green breathe](http://www.pm25.com);
     * [The national surface water quality automatic detection in real time data publishing system](http://58.68.130.147/);
@@ -84,12 +84,12 @@ Time | Company | Position
 * Introduction: Homepage of Zettage company, [visit it](http://www.zettage.com).
 * Responsibility:
     * the website is set up all by myself, including:
-    * manage the online server
+    * manage the ubuntu server
     * write the basic html
     * beautify the website using javascript and css (all the javascript and css code is written by myself except the `jQuery.min.js`).
 
 ### Self-judgement
-* strong self-learning ability(taught myself django, mysql, javascript);
-* love programming, manipulating;
+* strong self-learning ability (taught myself django, mysql, javascript) and practical ability;
+* love programming;
 * Chinese English Test level 6, can read the English material or documentation without difficulty;
 * calm with good communication skills;
