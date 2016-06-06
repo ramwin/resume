@@ -1,4 +1,4 @@
-[中文版](./README.md)/[English](./README_eng.md)
+[中文版](./README.md)/[English(unfinished)](./README_eng.md)
 ## 王祥的简历
 ###  基础信息
 * 姓名: **王祥**
