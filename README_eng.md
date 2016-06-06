@@ -72,14 +72,14 @@ Time | Company | Position
 * [See details](./tv/README.md)
 
 #### spider script
-* introduction: 利用 scrapy, beautifulsoup, mysql, cron 编写爬虫脚本爬去环境质量的数据
-* 爬取网站: 
+* introduction: crawl the environment data using scrpy, mysql, cron
+* data source: 
     * [PM25.in](http://pm25.in/);
-    * [绿色呼吸网](http://www.pm25.com);
-    * [国家地表水水质自动监测实时数据发布系统](http://58.68.130.147/);
+    * [green breathe](http://www.pm25.com);
+    * [The national surface water quality automatic detection in real time data publishing system](http://58.68.130.147/);
 
-### 自我评价
-* 自学能力强;
-* 热爱编程，善于动手;
-* 英语6级，可以基本无障碍地看英文资料,文档;
-* 吃苦耐劳;
+### Self-judgement
+* strong self-learning ability(taught myself django, mysql, javascript);
+* love programming, manipulating;
+* Chinese English Test level 6, can read the English material or documentation without difficulty;
+* calm with good communication skills;
