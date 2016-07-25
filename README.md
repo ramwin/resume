@@ -14,15 +14,20 @@
 
 ### 工作技能
 * [python](https://github.com/ramwin/python_tutorial/)
+    * 遵循`PEP8`代码规范
+    * 利用class封装函数，提高代码复用率
 * [django](https://github.com/ramwin/django_tutorial/)
-    * 可以使用django搭建网站
-    * [数据邦](#zettage)
+    * 可以使用django+Apache2+MySQL搭建网站
+    * 充分利用 `classbaseview` 和 `models` 的方法快速写出精简的可重复利用的代码
+    * 能做到APP的充分隔离，APP复用
+    * [数据邦项目](#zettage)
     * [个人网站项目](http://github.com/ramwin/django_tutorial)
 * flask
-	* [数据分析](#tv)
+	* [数据分析项目](#tv)
 * git
     * 经常使用git, github
     * 能够搭建git仓库对项目的代码进行版本控制,分支管理
+    * 会搭建git服务器
 * [HTML, JS, CSS, jQuery](https://github.com/ramwin/javascript_tutorial/)
     * 会用JS, jQuery进行前后端交互
     * 能实现一些滚动条,轮播图的效果
