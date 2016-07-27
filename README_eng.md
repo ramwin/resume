@@ -81,7 +81,7 @@ Time | Company | Position
 <div id="homepage"></div>
 
 #### Zettage homepage
-* Introduction: Homepage of Zettage company, [visit it](http://www.zettage.com).
+* Introduction: Homepage of Zettage company, [visit it](https://github.com/ramwin/zettage_homepage/).
 * Responsibility:
     * the website is set up all by myself, including:
     * manage the ubuntu server

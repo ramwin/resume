@@ -87,7 +87,7 @@
 <div id="homepage"></div>
 
 #### 振古公司主页
-* 简介: 南京振古信息科技有限公司主页，[浏览](http://www.zettage.com/).
+* 简介: 南京振古信息科技有限公司主页，[浏览](https://github.com/ramwin/zettage_homepage/).
 * 个人职责:
     * 这个主页是我一个人独立完成的项目，包括：
     * 阿里云服务器管理
