@@ -14,8 +14,12 @@ Time | School | Major
 
 ### Skill
 * [python](https://github.com/ramwin/python_tutorial/)
+    * follow the PEP8 standard, write readable and reusable code
 * [django](https://github.com/ramwin/django_tutorial/)
     * able to establish an website using django
+    * use classbaseview, encapsulate the models to develop quickly
+    * write standalone, resuable app
+    * [Match up app](#sharengine)
     * [zettage daas project](#zettage)
     * [personal website](http://github.com/ramwin/django_tutorial)
 * flask
@@ -30,29 +34,48 @@ Time | School | Major
     * know the basic structure of redis (I like to use the list as a message queue).
 * docker
     * be used to use docker to run different service on my computer
-* MySQL
+* database
+    * MySQL
+    * Redis
+    * MongoDB
 * cryptography
 * algorithm
 * JAVA
 	* not familiar. Once following the tutorial of [guacamole](http://guacamole.incubator.apache.org/) to build a [servlet app](https://github.com/ramwin/my_guacamole_sample/), which can be used to control the computers inside the local lan.
+* English
+    * learn django by myself, finish reading the [tutorial](https://docs.djangoproject.com/en/1.8/)
+    * able to read English documentation easily
 
 ### Working Experience
 
 Time | Company | Position
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **ZTT** | *Technologist*
-2015.06 - 2016.06 | **Nanjing Zettage Information technology co., ltd** | *Full Stack Developer*
+2015.06 - 2016.06 | **Nanjing Zettage Information Technology Co., Ltd** | *django Back-End Engineer*
+2016.07 - 2016.07 | **Shanghai Sharegine Network Technology Co., Ltd** | *django Back-End Engineer*
 
 
 ### Project Experience
+<div id="sharengine"></div>
+
+#### Match up app
+* Introduction: Match up is a commercial social software where people can find their ideal partner, broaden their connection.
+* Technology: django, python, mongodb
+* Responsibility:
+    0. realize some back-end's feature
+    1. create a dynamic at the back-end whenever a people create a group or join in a group
+    2. create a message when uses' dynamic was replied, show the reply list to users
+    3. optimize the code, follow the PEP8 standard, encapsulate some function to models to make it readable and reusable
+
+
 <div id="zettage"></div>  
 
 #### Zettage daas
 * Introduction:  a cloud computing, sharing platform where uses can share their script, tool, data and purchase other's script, tool, data and analysis online.
-* Technology: django, python, docker, 
+* Technology: django, python, docker, mysql
 * Responsibility:
     0. establish the git server and control the branch, version of project
-    1. desig the structure of database in a clear and week coupling way
+    1. design the structure of database in a clear and week coupling way
     2. the backend logic
     3. interacting with the front end engineer and discuss the api
     4. invoke the restful api to create different service for user

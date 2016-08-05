@@ -15,11 +15,12 @@
 ### 工作技能
 * [python](https://github.com/ramwin/python_tutorial/)
     * 遵循`PEP8`代码规范
-    * 利用class封装函数，提高代码复用率
+    * 理解面向对象编程，编写易懂，可复用的代码
 * [django](https://github.com/ramwin/django_tutorial/)
     * 可以使用django+Apache2+MySQL搭建网站
     * 充分利用 `classbaseview` 和 `models` 的方法快速写出精简的可重复利用的代码
     * 能做到APP的充分隔离，APP复用
+    * [对上App](#sharengine)
     * [数据邦项目](#zettage)
     * [个人网站项目](http://github.com/ramwin/django_tutorial)
 * flask
@@ -36,26 +37,45 @@
     * 知道redis的数据结构,能利用redis的数据结构做消息队列,计数器
 * docker
     * 会使用docker来启动服务,制作docker镜像,服务。以此可以减少对环境的依赖,有利于服务的维护
-* MySQL
+* 数据库
+    * MySQL
+    * Redis
+    * MongoDB
 * 密码学
 * 算法
 * JAVA
-	* 不熟。曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个[servlet应用](https://github.com/ramwin/my_guacamole_sample/)，实现网页上远程操作局域网内部的电脑的功能。
+	* 不熟。曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个[servlet应用](https://github.com/ramwin/my_guacamole_sample/)，实现网页上远程操作局域网内部的电脑的功能
+* 英语
+    * 自学 django, 读完了 [tutorial](https://docs.djangoproject.com/en/1.8/)
+    * 能无压力地看英文文档
 
 ### 工作经历
 
 时间 | 公司名称 | 岗位
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **中天科技集团** | *工艺员*
-2015.06 - 2016.06 | **南京振古信息科技有限公司** | *全栈工程师*
+2015.06 - 2016.06 | **南京振古信息科技有限公司** | *django后端工程师*
+2016.07 - 2016.07 | **上海小荐网络科技有限公司** | *django后端工程师*
 
 
 ### 项目经验
+
+<div id="sharengine"></div>
+
+#### 对上
+* 简介: 一款商务社交软件，用户可以在这里匹配到最适合的商业伙伴，轻松拓宽自己的人脉。
+* 主要技术: django, python, mongodb
+* 个人指责:
+    0. 后台部分功能的实现
+    1. 在用户创建或者加入群的时候后台自动创建一条说说
+    2. 用户的说说被评论的时候，用户能收到消息并打开列表进行查看
+    3. 代码优化，遵循PEP8规范，把部分函数封装在 models 里面，便于代码复用和理解
+
 <div id="zettage"></div>  
 
 #### 数据邦
 * 简介: 一个云计算,云共享平台,用户可以把他们自己写的脚本,数据放入该平台,可以实现数据脚本共享,交易,在线分析等功能
-* 主要技术: django, python, docker, 
+* 主要技术: django, python, docker, mysql
 * 个人职责:
     0. git服务器的搭建
     1. 数据库设计
