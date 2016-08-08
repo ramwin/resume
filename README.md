@@ -36,7 +36,7 @@
 * redis
     * 知道redis的数据结构,能利用redis的数据结构做消息队列,计数器
 * docker
-    * 会使用docker来启动服务,制作docker镜像,服务。以此可以减少对环境的依赖,有利于服务的维护
+    * 会使用docker来启动服务,制作docker镜像,服务。以此可以减少对环境的依赖,有利于服务器的维护
 * 数据库
     * MySQL
     * Redis
@@ -48,6 +48,12 @@
 * 英语
     * 自学 django, 读完了 [tutorial](https://docs.djangoproject.com/en/1.8/)
     * 能无压力地看英文文档
+
+### 上过的课程
+    * [Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
+    * [密码学](https://www.coursera.org/learn/crypto)
+    * [算法导论](https://www.coursera.org/learn/algorithm-design-analysis)
+    * [计算机导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
 
 ### 工作经历
 
