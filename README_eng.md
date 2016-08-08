@@ -47,10 +47,10 @@ Time | School | Major
     * able to read English documentation easily
 
 ### lessons
-    * [Introduction to Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
-    * [Cryptography](https://www.coursera.org/learn/crypto)
-    * [Algorithms: Design and Analysis](https://www.coursera.org/learn/algorithm-design-analysis)
-    * [Introduction to computing with C language](https://www.coursera.org/learn/jisuanji-bianchen)
+* [Introduction to Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
+* [Cryptography](https://www.coursera.org/learn/crypto)
+* [Algorithms: Design and Analysis](https://www.coursera.org/learn/algorithm-design-analysis)
+* [Introduction to computing with C language](https://www.coursera.org/learn/jisuanji-bianchen)
 
 ### Working Experience
 

@@ -50,10 +50,10 @@
     * 能无压力地看英文文档
 
 ### 上过的课程
-    * [Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
-    * [密码学](https://www.coursera.org/learn/crypto)
-    * [算法导论](https://www.coursera.org/learn/algorithm-design-analysis)
-    * [计算机导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
+* [Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
+* [密码学](https://www.coursera.org/learn/crypto)
+* [算法导论](https://www.coursera.org/learn/algorithm-design-analysis)
+* [计算机导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
 
 ### 工作经历
 
