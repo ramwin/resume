@@ -49,7 +49,7 @@
     * 自学 django, 读完了 [tutorial](https://docs.djangoproject.com/en/1.8/)
     * 能无压力地看英文文档
 
-### 上过的课程
+### 自学的课程
 * [Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
 * [密码学](https://www.coursera.org/learn/crypto)
 * [算法导论](https://www.coursera.org/learn/algorithm-design-analysis)
