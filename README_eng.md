@@ -3,7 +3,7 @@
 ###  Personal Information
 * Name: **Xiang Wang**
 * Gender: **Male**
-* Cell Phone: *188-0190-3271*
+* Cell Phone: ***********
 * E-mail Address: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * Date of Birth: **1992.01**
 
