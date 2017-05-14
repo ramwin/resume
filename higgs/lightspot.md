@@ -266,7 +266,7 @@
             return result
 ```
 
-* 合理规划功能模块区分，非常时候功能拓展与修改
+* 合理规划功能模块区分，非常方便之后功能的拓展与修改
 ```
 class DailyPaperDetailAPIView(RetrieveUpdateDestroyAPIView):
     authentication_classes = (TokenAuthentication, SessionAuthentication)
