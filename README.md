@@ -13,10 +13,10 @@
 2010.09 - 2014.07 | **上海交通大学** | *化学化工学院*
 
 ### 工作技能
-* [python](https://github.com/ramwin/python_tutorial/)
+* [python](https://github.com/ramwin/python-tutorial/)
     * 遵循`PEP8`代码规范
     * 理解面向对象编程，编写易懂，可复用的代码
-* [django](https://github.com/ramwin/django_tutorial/)
+* [django](https://www.ramwin.com/)
     * 可以使用django+Apache2+MySQL搭建网站
     * 充分利用 `classbaseview` 和 `models` 的方法快速写出精简的可重复利用的代码
     * 能做到APP的充分隔离，APP复用
