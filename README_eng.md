@@ -15,13 +15,13 @@ Time | School | Major
 ### Skill
 * [python](https://github.com/ramwin/python_tutorial/)
     * follow the PEP8 standard, write readable and reusable code
-* [django](https://github.com/ramwin/django_tutorial/)
+* [django](https://github.com/ramwin/django-reference/)
     * able to establish an website using django
     * use classbaseview, encapsulate the models to develop quickly
     * write standalone, resuable app
     * [Match up app](#sharengine)
     * [zettage daas project](#zettage)
-    * [personal website](http://github.com/ramwin/django_tutorial)
+    * [personal website](https://github.com/ramwin/django-reference/)
 * flask
 	* [order data analysis](#tv)
 * git
