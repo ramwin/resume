@@ -3,7 +3,7 @@
 ###  基础信息
 * 姓名: **王祥**
 * 性别: **男**
-* 电话: ***********
+* 电话: **18801903271**
 * 邮箱: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * 出生年月: **1992.01**
 
@@ -54,6 +54,15 @@
 * [密码学](https://www.coursera.org/learn/crypto)
 * [算法导论](https://www.coursera.org/learn/algorithm-design-analysis)
 * [计算机导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
+
+### 贡献过的项目
+* [https://github.com/jxtech/wechatpy](https://github.com/jxtech/wechatpy/pull/362)
+* [https://github.com/tldr-pages/tldr]
+    * [https://github.com/tldr-pages/tldr/pull/1063](https://github.com/tldr-pages/tldr/pull/1063)
+    * [https://github.com/tldr-pages/tldr/pull/1289](https://github.com/tldr-pages/tldr/pull/1289)
+    * [https://github.com/tldr-pages/tldr/pull/2101](https://github.com/tldr-pages/tldr/pull/2101)
+* [https://github.com/stonebig/sqlite_bro](https://github.com/stonebig/sqlite_bro/pull/3)
+* [https://github.com/Sopage/china-city](https://github.com/Sopage/china-city/pull/1)
 
 ### 工作经历
 

@@ -11,3 +11,9 @@
 * 说说你用`django`, `rest_framework`里面最深入的一次理解
 
 * 轮播图原理
+
+* 喜欢用python的什么包，喜欢在哪
+
+* 打字速度？
+
+* stackoverflow, github帐号
