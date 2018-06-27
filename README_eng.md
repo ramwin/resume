@@ -52,6 +52,16 @@ Time | School | Major
 * [Algorithms: Design and Analysis](https://www.coursera.org/learn/algorithm-design-analysis)
 * [Introduction to computing with C language](https://www.coursera.org/learn/jisuanji-bianchen)
 
+### My Contribution to some Open Source Repository
+* [https://github.com/jxtech/wechatpy](https://github.com/jxtech/wechatpy/pull/362)
+* [https://github.com/tldr-pages/tldr]
+    * [https://github.com/tldr-pages/tldr/pull/1063](https://github.com/tldr-pages/tldr/pull/1063)
+    * [https://github.com/tldr-pages/tldr/pull/1289](https://github.com/tldr-pages/tldr/pull/1289)
+    * [https://github.com/tldr-pages/tldr/pull/2101](https://github.com/tldr-pages/tldr/pull/2101)
+* [https://github.com/stonebig/sqlite_bro](https://github.com/stonebig/sqlite_bro/pull/3)
+* [https://github.com/Sopage/china-city](https://github.com/Sopage/china-city/pull/1)
+* [https://github.com/joke2k/faker](https://github.com/joke2k/faker/pull/769#event-1701596869)
+
 ### Working Experience
 
 Time | Company | Position
