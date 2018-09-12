@@ -53,7 +53,9 @@ Time | School | Major
 * [Introduction to computing with C language](https://www.coursera.org/learn/jisuanji-bianchen)
 
 ### My Contribution to some Open Source Repository
-* [https://github.com/jxtech/wechatpy](https://github.com/jxtech/wechatpy/pull/362)
+* [**wechatpy** python API for wechat](https://github.com/jxtech/wechatpy/)
+    * [modify documents: encourage user to use session storage in proper situation](https://github.com/jxtech/wechatpy/pull/362)
+    * [new function: create a generator to iterate user's openid](https://github.com/jxtech/wechatpy/pull/387)
 * [https://github.com/tldr-pages/tldr]
     * [https://github.com/tldr-pages/tldr/pull/1063](https://github.com/tldr-pages/tldr/pull/1063)
     * [https://github.com/tldr-pages/tldr/pull/1289](https://github.com/tldr-pages/tldr/pull/1289)

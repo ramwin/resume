@@ -56,7 +56,9 @@
 * [计算机导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
 
 ### 贡献过的项目
-* [https://github.com/jxtech/wechatpy python的微信API项目](https://github.com/jxtech/wechatpy/pull/362)
+* [**wechatpy** python的微信API项目](https://github.com/jxtech/wechatpy/)
+    * [修改文档: 引到用户在合适的场景下使用session storage](https://github.com/jxtech/wechatpy/pull/362)
+    * [添加新功能: 获取用户列表的generator](https://github.com/jxtech/wechatpy/pull/387)
 * [https://github.com/tldr-pages/tldr 快速文档查看项目]
     * [https://github.com/tldr-pages/tldr/pull/1063](https://github.com/tldr-pages/tldr/pull/1063)
     * [https://github.com/tldr-pages/tldr/pull/1289](https://github.com/tldr-pages/tldr/pull/1289)
