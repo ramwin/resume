@@ -60,9 +60,11 @@ Time | School | Major
     * [https://github.com/tldr-pages/tldr/pull/1063](https://github.com/tldr-pages/tldr/pull/1063)
     * [https://github.com/tldr-pages/tldr/pull/1289](https://github.com/tldr-pages/tldr/pull/1289)
     * [https://github.com/tldr-pages/tldr/pull/2101](https://github.com/tldr-pages/tldr/pull/2101)
+* [Fix Django bug](https://github.com/django/django/pull/10497)
 * [https://github.com/stonebig/sqlite_bro](https://github.com/stonebig/sqlite_bro/pull/3)
 * [https://github.com/Sopage/china-city](https://github.com/Sopage/china-city/pull/1)
 * [https://github.com/joke2k/faker](https://github.com/joke2k/faker/pull/769#event-1701596869)
+* [enbale customer fontsize in the barrager project(which can show barrage in the website)](https://github.com/yaseng/jquery.barrager.js/pull/27)
 
 ### Working Experience
 

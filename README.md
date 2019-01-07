@@ -59,6 +59,7 @@
 * [**wechatpy** python的微信API项目](https://github.com/jxtech/wechatpy/)
     * [修改文档: 引到用户在合适的场景下使用session storage](https://github.com/jxtech/wechatpy/pull/362)
     * [添加新功能: 获取用户列表的generator](https://github.com/jxtech/wechatpy/pull/387)
+* [修复django的bug](https://github.com/django/django/pull/10497)
 * [https://github.com/tldr-pages/tldr 快速文档查看项目]
     * [https://github.com/tldr-pages/tldr/pull/1063](https://github.com/tldr-pages/tldr/pull/1063)
     * [https://github.com/tldr-pages/tldr/pull/1289](https://github.com/tldr-pages/tldr/pull/1289)
@@ -66,6 +67,7 @@
 * [https://github.com/stonebig/sqlite_bro](https://github.com/stonebig/sqlite_bro/pull/3)
 * [https://github.com/Sopage/china-city](https://github.com/Sopage/china-city/pull/1)
 * [https://github.com/joke2k/faker 模拟数据生成](https://github.com/joke2k/faker/pull/769#event-1701596869)
+* [给javascript项目barrager(一个能在网页显示弹幕的项目)添加自定义字体大小功能](https://github.com/yaseng/jquery.barrager.js/pull/27)
 
 ### 工作经历
 
