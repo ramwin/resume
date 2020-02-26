@@ -1,4 +1,3 @@
-[中文版](./README.md)/[English](./README_eng.md)
 ## 王祥的简历
 ###  基础信息
 * 姓名: **王祥**
@@ -6,6 +5,8 @@
 * 电话: **18801903271**
 * 邮箱: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * 出生年月: **1992.01**
+* [stackoverflow: 2021分](https://stackoverflow.com/users/3601654/ramwin)
+* [github: 22followers](https://github.com/ramwin)
 
 ### 教育经历
 时间 | 学校 | 专业
@@ -13,41 +14,34 @@
 2010.09 - 2014.07 | **上海交通大学** | *化学化工学院*
 
 ### 工作技能
-* [python](https://github.com/ramwin/python-tutorial/)
-    * 遵循`PEP8`代码规范
+* [python](https://github.com/ramwin/python-reference/)
     * 理解面向对象编程，编写易懂，可复用的代码
-* [django](https://github.com/ramwin/django-reference/)
-    * 可以使用django+Apache2+MySQL搭建网站
-    * 充分利用 `classbaseview` 和 `models` 的方法快速写出精简的可重复利用的代码
+* [django](https://github.com/ramwin/django-reference/), [django-rest-framework](https://github.com/ramwin/django-reference/blob/master/rest-framework/README.md)
+    * 深入了解了django-rest-framework的源码，了解里面的serializer, [view](https://github.com/ramwin/django-reference/blob/master/rest-framework/view.md), mixin的原理
+    * 基于django-rest-framework写了一个可以用来类似django-admin来快速生成所有model的项目[django-rest-extensions](https://github.com/ramwin/django-rest-extensions)
     * 能做到APP的充分隔离，APP复用
-    * [对上App](#sharengine)
-    * [数据邦项目](#zettage)
-    * [个人网站项目](https://github.com/ramwin/django-reference/)
-* flask
-	* [数据分析项目](#tv)
-* git
-    * 经常使用git, github
-    * 能够搭建git仓库对项目的代码进行版本控制,分支管理
-    * 会搭建git服务器
-* [HTML, JS, CSS, jQuery](https://github.com/ramwin/javascript_tutorial/)
-    * 会用JS, jQuery进行前后端交互
-    * 能实现一些滚动条,轮播图的效果
-    * [振古科技官网](#homepage)
+* [web前端](https://github.com/ramwin/html-reference), [vue](https://github.com/ramwin/html-reference/blob/master/vue/README.md), [小程序](https://github.com/ramwin/mini-program-reference)
+    * 喜欢flex布局，写代码时喜欢考虑自适应
+    * 熟练运用vue。习惯于组件化页面代码。
+    * 主导开发了对上智能商汇小程序。
+    * 利用vue-router, ant-design做了音乐项目后台系统
 * redis
-    * 知道redis的数据结构,能利用redis的数据结构做消息队列,计数器
-* docker
-    * 会使用docker来启动服务,制作docker镜像,服务。以此可以减少对环境的依赖,有利于服务器的维护
-* 数据库
-    * MySQL
-    * Redis
-    * MongoDB
-* 密码学
-* 算法
-* JAVA
-	* 不熟。曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个[servlet应用](https://github.com/ramwin/my_guacamole_sample/)，实现网页上远程操作局域网内部的电脑的功能
+    * 处理过超过四千万的数据表，充分利用rabbitmq, redis, celery做了用户匹配后台的异步系统和缓存系统。
+* [linux](https://github.com/ramwin/linux-reference/)
+    * 一直负责公司的运维工作
+    * 经常使用git, github
 * 英语
-    * 自学 django, 读完了 [tutorial](https://docs.djangoproject.com/en/1.8/)
-    * 能无压力地看英文文档
+    * 大学过了四六级
+    * 自学 django, 直接看纯英文文档
+    * 上很多coursera的英文课程
+    * 能无压力地看大部分英文文档。看过celery, redis, rabbitmq, mysql, django
+    * 一直在tutorabc(原vipabc)上英语课，当前等级level11
+* 算法
+    * [leetcode链接](https://leetcode.com/ramwin/)
+    * 录制过一些算法视频，都是现编的算法，无前期准备。[视频链接](https://space.bilibili.com/498198)
+    * coursera上了算法课程, 斯坦福大学，纯英文授课。[课程链接](https://www.coursera.org/course/algo) [课程证书](./算法证书_algorithm_certificate.pdf)
+* 密码学
+    * coursera上了密码学的课程, 斯坦福大学，纯英文授课。[课程链接](https://www.coursera.org/learn/crypto/home/welcome) [课程证书](./密码学证书_crypto_certificate.pdf)
 
 ### 自学的课程
 * [Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
@@ -75,71 +69,48 @@
 时间 | 公司名称 | 岗位
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **中天科技集团** | *工艺员*
-2015.06 - 2016.06 | **南京振古信息科技有限公司** | *django后端工程师*
-2016.07 - 2016.07 | **上海小荐网络科技有限公司** | *django后端工程师*
-2016.08 - 今 | **上海希格斯智能科技有限公司** | *全栈工程师*
+2015.06 - 2016.06 | **南京振古信息科技有限公司** | *全栈工程师*
+2016.07 - 2016.07 | **上海小荐网络科技有限公司** | *全栈工程师*
+2016.08 - 2017.07 | **上海希格斯智能科技有限公司** | *全栈工程师*
+2017.08 - 今 | **上海小荐网络科技有限公司** | *全栈工程师*
 
 
 ### 项目经验
-
-<div id="sharengine"></div>
-
-#### 对上
+#### 对上智能商汇
 * 简介: 一款商务社交软件，用户可以在这里匹配到最适合的商业伙伴，轻松拓宽自己的人脉。
-* 主要技术: django, python, mongodb
+* 利用django-rest-framework做基本的crud接口
+* 主要技术: django-rest-framework, python
 * 个人职责:
-    0. 后台部分功能的实现
-    1. 在用户创建或者加入群的时候后台自动创建一条说说
-    2. 用户的说说被评论的时候，用户能收到消息并打开列表进行查看
-    3. 代码优化，遵循PEP8规范，把部分函数封装在 models 里面，便于代码复用和理解
+    1. 全部的后台接口
+    2. 利用websocket做过整套的聊天机制
+    3. 做过整套的小程序聊天功能
+    4. **利用redis, celery, rabbitmq处理了四千万数量级的匹配数量的任务队列和查询机制**
 
-<div id="zettage"></div>  
+#### [内网系统](./higgs/)
+* 简介: 给公司内部使用的系统
+* 主要技术: django django-rest-framework vue
+* 个人职责:
+    1. 后台系统。包含论坛，周报，代办事项，业务流程等模块
+    2. 前端页面, 主要用vue
+    3. **独立实现了公司的oauth系统**
 
-#### 数据邦
+#### [数据邦](./zettage/README.md)
 * 简介: 一个云计算,云共享平台,用户可以把他们自己写的脚本,数据放入该平台,可以实现数据脚本共享,交易,在线分析等功能
 * 主要技术: django, python, docker, mysql
 * 个人职责:
-    0. git服务器的搭建
-    1. 数据库设计
-    2. 后台逻辑业务的实现
-    3. 和前端的交互
-    4. 调用底层docker的接口, 对相应的服务进行操作
-    5. 利用redis, kafka, flask实现了一个提供了增删改查api接口的应用,让用户可以上传并查看他们的传感器数据/流式数据。
-    6. 调用支付宝API,实现用户充值支付功能
-* [查看详情](./zettage/README.md)
+    1. 后台逻辑业务的实现
+    2. 调用底层docker的接口, 对相应的服务进行操作
+    3. 利用redis, kafka, flask实现了一个提供了增删改查api接口的应用,让用户可以上传并查看他们的传感器数据/流式数据。
+    4. 调用支付宝API,实现用户充值支付功能
 
-<div id="tv"></div>
-
-#### 数据分析
-* 简介: 根据客户提供的数据,提供对应的HTTP服务,让客户能够进行数据统计分析
-* 主要技术: flask, python, e-charts, redis
-* 个人职责:
-    1. 网站后台服务搭建
-    2. 数据库优化,利用redis加sqlite来加速数据查询的速度
-    3. 提供前端获取数据的API
-* [查看详情](./tv/README.md)
-
-#### 爬虫脚本
-* 简介: 利用 scrapy, beautifulsoup, mysql, cron 编写爬虫脚本爬取环境质量的数据
-* 爬取网站: 
-    * [PM25.in](http://pm25.in/);
-    * [绿色呼吸网](http://www.pm25.com);
-    * [国家地表水水质自动监测实时数据发布系统](http://58.68.130.147/);
-
-<div id="homepage"></div>
-
-#### 振古公司主页
-* 简介: 南京振古信息科技有限公司主页，[浏览](https://github.com/ramwin/zettage_homepage/).
-* 个人职责:
-    * 这个主页是我一个人独立完成的项目，包括：
-    * 阿里云服务器管理
-    * 编写html页面
-    * 用js, css美化页面(除了`jQuery.min.js`, 其余js,css都是我自己独立完成的)
+#### 其他项目
+* 振古公司主页。
+* 船舶管理平台。这个平台的接口太多了，所以我写了[django-rest-extensions](https://github.com/ramwin/django-reference/blob/master/rest-framework/README.md)代码，通过注册model，就能生成api接口
+* 音乐管理项目。充分利用git，实现了用代码去写代码。（主要是因为懒，不想去折腾vue的继承。所以先创建base分支。然后各个功能都是拷贝base分支的代码。当基础功能要修改时，修改base分支，运行脚本拷贝各个组件)
+* 爬虫项目。用scrapy爬过十几种网站。最多只涉及cookie,header的模拟，没涉及过反验证码。
 
 ### 自我评价
 * 自学能力强(自学django, mysql, javascript);
 * 热爱编程，善于动手;
-* 英语6级，可以无障碍地看英文资料,文档;
+* 英语不错，可以无障碍地看英文资料,文档;
 * 冷静思考，善于沟通;
-
-
