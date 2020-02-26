@@ -18,7 +18,7 @@
     * 理解面向对象编程，编写易懂，可复用的代码
 * [django](https://github.com/ramwin/django-reference/), [django-rest-framework](https://github.com/ramwin/django-reference/blob/master/rest-framework/README.md)
     * 深入了解了django-rest-framework的源码，了解里面的serializer, [view](https://github.com/ramwin/django-reference/blob/master/rest-framework/view.md), mixin的原理
-    * 基于django-rest-framework写了一个可以用来类似django-admin来快速生成所有model的项目[django-rest-extensions](https://github.com/ramwin/django-rest-extensions)
+    * 写了[django-rest-extensions](https://github.com/ramwin/django-rest-extensions),可以快速生成一个model的api
     * 能做到APP的充分隔离，APP复用
 * [web前端](https://github.com/ramwin/html-reference), [vue](https://github.com/ramwin/html-reference/blob/master/vue/README.md), [小程序](https://github.com/ramwin/mini-program-reference)
     * 喜欢flex布局，写代码时喜欢考虑自适应
@@ -86,7 +86,7 @@
     3. 做过整套的小程序聊天功能
     4. **利用redis, celery, rabbitmq处理了四千万数量级的匹配数量的任务队列和查询机制**
 
-#### [内网系统](./higgs/)
+#### [内网系统](https://github.com/ramwin/resume/blob/master/higgs/)
 * 简介: 给公司内部使用的系统
 * 主要技术: django django-rest-framework vue
 * 个人职责:
@@ -94,7 +94,7 @@
     2. 前端页面, 主要用vue
     3. **独立实现了公司的oauth系统**
 
-#### [数据邦](./zettage/README.md)
+#### [数据邦](https://github.com/ramwin/resume/blob/master/zettage/README.md)
 * 简介: 一个云计算,云共享平台,用户可以把他们自己写的脚本,数据放入该平台,可以实现数据脚本共享,交易,在线分析等功能
 * 主要技术: django, python, docker, mysql
 * 个人职责:
