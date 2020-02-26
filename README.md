@@ -1,4 +1,6 @@
 ## 王祥的简历
+[下载pdf版本](https://raw.githubusercontent.com/ramwin/resume/master/resume.pdf)
+
 ###  基础信息
 * 姓名: **王祥**
 * 性别: **男**
