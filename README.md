@@ -21,12 +21,12 @@
 * [python](https://github.com/ramwin/python-reference/)
     * [发布过7个项目](https://pypi.org/user/ramwin/)
     * 理解面向对象编程，编写易懂，可复用的代码
-* [django](https://github.com/ramwin/django-reference/), [django-rest-framework](https://github.com/ramwin/django-reference/blob/master/rest-framework/README.md)  
+* [django](https://github.com/ramwin/django-reference/) & [django-rest-framework](https://github.com/ramwin/django-reference/blob/master/rest-framework/README.md)  
 点击上面的django链接可以看我学习django的笔记，我是django开发学习群的群主（群号: 461214756）,欢迎您加入。
-    * 深入了解了django-rest-framework的源码，了解里面的serializer, [view](https://github.com/ramwin/django-reference/blob/master/rest-framework/view.md), mixin的原理
+    * 深入了解了django-rest-framework的源码，了解里面的[serializer](https://github.com/ramwin/django-reference/blob/master/rest-framework/serializer.md), [view](https://github.com/ramwin/django-reference/blob/master/rest-framework/view.md), mixin的原理
     * 写了[django-rest-extensions](https://github.com/ramwin/django-rest-extensions),可以快速生成一个model的api
     * 能做到APP的充分隔离，APP复用
-* [web前端](https://github.com/ramwin/html-reference), [vue](https://github.com/ramwin/html-reference/blob/master/vue/README.md), [小程序](https://github.com/ramwin/mini-program-reference)
+* [web前端](https://github.com/ramwin/html-reference) & [vue](https://github.com/ramwin/html-reference/blob/master/vue/README.md), [小程序](https://github.com/ramwin/mini-program-reference)
     * 喜欢flex布局，写代码时喜欢考虑自适应
     * 熟练运用vue。习惯于组件化页面代码。
     * 主导开发了对上智能商汇小程序。
@@ -37,16 +37,18 @@
     * 一直负责公司的运维工作
     * 经常使用git, github
 * 英语
-    * 大学过了四六级
+    * 能无压力地看大部分英文文档。直接阅读了django, celery, redis, mysql的英文文档
     * 上很多coursera的英文课程
-    * 能无压力地看大部分英文文档。自学了django, celery, redis, mysql
     * 一直在tutorabc(原vipabc)上英语课，当前等级level11
+    * 大学过了四六级
 * 算法
     * [leetcode链接](https://leetcode.com/ramwin/)
     * 录制过一些算法视频，都是现编的算法，无前期准备。[视频链接](https://space.bilibili.com/498198)
     * coursera上了算法课程, 斯坦福大学，纯英文授课。[课程链接](https://www.coursera.org/course/algo) [课程证书](https://github.com/ramwin/resume/blob/master/算法证书_algorithm_certificate.pdf)
 * 密码学
     * coursera上了密码学的课程, 斯坦福大学，纯英文授课。[课程链接](https://www.coursera.org/learn/crypto/home/welcome) [课程证书](https://github.com/ramwin/resume/blob/master/密码学证书_crypto_certificate.pdf)
+* JAVA  
+不熟, 曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个[servlet应用](https://github.com/ramwin/my_guacamole_sample/)，实现网页上远程操作局域网内部的电脑的功能。[图片链接](https://github.com/ramwin/resume/blob/master/zettage/img/工作台.png)
 
 ### 自学的课程
 * [Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
@@ -87,31 +89,36 @@
 * 主要技术: django-rest-framework, python
 * 个人职责:
     1. 全部的后台接口
-    2. 利用websocket做过整套的聊天机制
-    3. 做过整套的小程序聊天功能
-    4. **利用redis, celery, rabbitmq处理了四千万数量级的匹配数量的任务队列和查询机制**
+    2. 利用websocket做了整套的聊天机制，和网页的实时互动系统
+    3. **利用redis, celery, rabbitmq处理了四千万数量级的匹配数量的任务队列和查询机制。实现了系统的推荐机制**
 
 2. #### [内网系统](https://github.com/ramwin/resume/blob/master/higgs/)
 * 简介: 给公司内部使用的系统
 * 主要技术: django django-rest-framework vue
 * 个人职责:
-    1. 后台系统。包含论坛，周报，代办事项，业务流程等模块
-    2. 前端页面, 主要用vue
-    3. **独立实现了公司的oauth系统**
+    1. 后台系统。包含论坛，周报，代办事项等模块
+    2. 设计了公司的业务流程后台，从而能实现业务流程的自定义，设置流程的前置条件和后置任务
+    3. 利用redis实现了网页上类似tower, teambition的代办事项功能。
+    4. 前端页面, 主要用vue。做过会议室管理系统，做了时间表，可以通过图表一眼看到哪个会议室什么时候在被人使用. [图片链接](https://github.com/ramwin/resume/blob/master/higgs/img/会议室管理系统.png)
+    5. **独立实现了公司的oauth系统, 接口格式照抄了微信公众号的登录认证模式** [图片链接](https://github.com/ramwin/resume/blob/master/higgs/img/oauth2.0认证系统_1.png)
+    6. 和公司的exchange系统里的会议室功能联动，实现了在内网上查询预定会议室以及发送邮件通知的功能。
 
 3. #### [数据邦](https://github.com/ramwin/resume/blob/master/zettage/README.md)
 * 简介: 一个云计算,云共享平台,用户可以把他们自己写的脚本,数据放入该平台,可以实现数据脚本共享,交易,在线分析等功能
 * 主要技术: django, python, docker, mysql
 * 个人职责:
-    1. 后台逻辑业务的实现
-    2. 调用底层docker的接口, 对相应的服务进行操作
-    3. 利用redis, kafka, flask实现了一个提供了增删改查api接口的应用,让用户可以上传并查看他们的传感器数据/流式数据。
-    4. 调用支付宝API,实现用户充值支付功能
+    0. git服务器的搭建
+    1. 数据库设计
+    2. 后台逻辑业务的实现
+    3. 部分前端页面。用递归写了文件的目录树以及对应的操作功能
+    3. 调用底层docker的接口, 对相应的服务进行操作
+    4. 利用redis, kafka, flask实现了一个提供了增删改查api接口的应用,让用户可以上传并查看他们的传感器数据/流式数据。
+    5. 调用支付宝API,实现用户充值支付功能
 
 4. #### 其他项目
 * 振古公司主页。
 * 船舶管理平台。这个平台的接口太多了，所以我写了[django-rest-extensions](https://github.com/ramwin/django-reference/blob/master/rest-framework/README.md)代码，通过注册model，就能生成api接口
-* 音乐管理项目。充分利用git，实现了用代码去写代码。（主要是因为懒，不想去折腾vue的继承。所以先创建base分支。然后各个功能都是拷贝base分支的代码。当基础功能要修改时，修改base分支，运行脚本拷贝各个组件)
+* 音乐管理项目。充分利用git，实现了用代码去写代码。(主要是因为懒加没时间，不想去折腾vue的继承。所以先创建base分支。然后各个功能都是拷贝base分支的代码。当基础功能要修改时，修改base分支，运行脚本拷贝各个组件)
 * 爬虫项目。用scrapy爬过十几种网站。最多只涉及cookie,header的模拟，没涉及过反验证码。
 
 ### 自我评价
