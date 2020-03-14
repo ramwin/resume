@@ -120,7 +120,7 @@
 4. #### 其他项目
 * 振古公司主页。
 * 船舶管理平台。这个平台的接口太多了，所以我写了[django-rest-extensions](https://github.com/ramwin/django-reference/blob/master/rest-framework/README.md)代码，通过注册model，就能生成api接口
-* 音乐管理项目。充分利用git，实现了用代码去写代码。(主要是因为懒加没时间，不想去折腾vue的继承。所以先创建base分支。然后各个功能都是拷贝base分支的代码。当基础功能要修改时，修改base分支，运行脚本拷贝各个组件)
+* 音乐管理项目。充分利用git，实现了用代码去写重复代码。
 * 爬虫项目。用scrapy爬过十几种网站。最多只涉及cookie,header的模拟，没涉及过反验证码。
 
 ### 自我评价
