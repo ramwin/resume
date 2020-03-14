@@ -47,6 +47,9 @@
     * coursera上了算法课程, 斯坦福大学，纯英文授课。[课程链接](https://www.coursera.org/course/algo) [课程证书](https://github.com/ramwin/resume/blob/master/算法证书_algorithm_certificate.pdf)
 * 密码学
     * coursera上了密码学的课程, 斯坦福大学，纯英文授课。[课程链接](https://www.coursera.org/learn/crypto/home/welcome) [课程证书](https://github.com/ramwin/resume/blob/master/密码学证书_crypto_certificate.pdf)
+* 计算机证书
+    * 2019年上半年考了计算机初级 - 程序员
+    * 2019年下半年考了计算机中级 - 软件设计师
 * JAVA  
 不熟, 曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个[servlet应用](https://github.com/ramwin/my_guacamole_sample/)，实现网页上远程操作局域网内部的电脑的功能。[图片链接](https://github.com/ramwin/resume/blob/master/zettage/img/工作台.png)
 
@@ -76,8 +79,7 @@
 时间 | 公司名称 | 岗位
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **中天科技集团** | *工艺员*
-2015.06 - 2016.06 | **南京振古信息科技有限公司** | *全栈工程师*
-2016.07 - 2016.07 | **上海小荐网络科技有限公司** | *全栈工程师*
+2015.06 - 2016.07 | **南京振古信息科技有限公司** | *全栈工程师*
 2016.08 - 2017.07 | **上海希格斯智能科技有限公司** | *全栈工程师*
 2017.08 - 今 | **上海小荐网络科技有限公司** | *全栈工程师*
 
