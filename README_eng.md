@@ -57,6 +57,7 @@ Time | School | Major
     * [modify documents: encourage user to use session storage in proper situation](https://github.com/jxtech/wechatpy/pull/362)
     * [new function: create a generator to iterate user's openid](https://github.com/jxtech/wechatpy/pull/387)
     * [modify documents: the usage of creating wechat qrcode](https://github.com/jxtech/wechatpy/pull/434)
+    * [add function to read the appid from wechat pay callback](https://github.com/jxtech/wechatpy/pull/494)
 * [https://github.com/tldr-pages/tldr]
     * [https://github.com/tldr-pages/tldr/pull/1063](https://github.com/tldr-pages/tldr/pull/1063)
     * [https://github.com/tldr-pages/tldr/pull/1289](https://github.com/tldr-pages/tldr/pull/1289)

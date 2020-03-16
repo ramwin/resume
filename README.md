@@ -60,6 +60,7 @@
     * [修改文档: 引到用户在合适的场景下使用session storage](https://github.com/jxtech/wechatpy/pull/362)
     * [添加新功能: 获取用户列表的generator](https://github.com/jxtech/wechatpy/pull/387)
     * [修改生成二维码的文档](https://github.com/jxtech/wechatpy/pull/434)
+    * [添加支付回调时获取appid的函数](https://github.com/jxtech/wechatpy/pull/494)
 * [修复django的bug](https://github.com/django/django/pull/10497)
 * [https://github.com/tldr-pages/tldr 快速文档查看项目]
     * [https://github.com/tldr-pages/tldr/pull/1063](https://github.com/tldr-pages/tldr/pull/1063)
