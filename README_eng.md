@@ -1,9 +1,5 @@
 [Chinese](./README.md)/[English](./README_eng.md)
 
-
-# TODO
-* [ ] update the english resume
-
 ## PERSONAL RESUME
 ###  Personal Information
 * Name: **Xiang Wang**
@@ -78,8 +74,10 @@ Time | School | Major
 Time | Company | Position
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **ZTT** | *Technologist*
-2015.06 - 2016.06 | **Nanjing Zettage Information Technology Co., Ltd** | *django Back-End Engineer*
-2016.07 - 2016.07 | **Shanghai Sharegine Network Technology Co., Ltd** | *django Back-End Engineer*
+2015.06 - 2016.06 | **Nanjing Zettage Information Technology Co., Ltd** | *Full stack Developer*
+2016.08 - 2017.07 | **Shanghai Higgs Technology cO., LIMITED | *Full Stack Developer*
+2017.07 - now | **Shanghai Sharegine Network Technology Co., Ltd** | *Full Stack Developer*
+
 
 
 ### Project Experience
