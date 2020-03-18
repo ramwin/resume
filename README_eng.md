@@ -75,7 +75,7 @@ Time | Company | Position
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **ZTT** | *Technologist*
 2015.06 - 2016.06 | **Nanjing Zettage Information Technology Co., Ltd** | *Full stack Developer*
-2016.08 - 2017.07 | **Shanghai Higgs Technology cO., LIMITED | *Full Stack Developer*
+2016.08 - 2017.07 | **Shanghai Higgs Technology Co., Ltd** | *Full Stack Developer*
 2017.07 - now | **Shanghai Sharegine Network Technology Co., Ltd** | *Full Stack Developer*
 
 
