@@ -1,6 +1,9 @@
 [Chinese](./README.md)/[English](./README_eng.md)
+
+
 # TODO
 * [ ] update the english resume
+
 ## PERSONAL RESUME
 ###  Personal Information
 * Name: **Xiang Wang**

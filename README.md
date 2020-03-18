@@ -1,3 +1,6 @@
+[中文版](./README.md)/[English](./README_eng.md)  
+
+
 ## 王祥的简历
 [下载pdf版本](https://raw.githubusercontent.com/ramwin/resume/master/resume.pdf)
 
