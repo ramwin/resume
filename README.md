@@ -28,6 +28,7 @@
 点击上面的django链接可以看我学习django的笔记，我是django开发学习群的群主（群号: 461214756）,欢迎您加入。
     * 深入了解了django-rest-framework的源码，了解里面的[serializer](https://github.com/ramwin/django-reference/blob/master/rest-framework/serializer.md), [view](https://github.com/ramwin/django-reference/blob/master/rest-framework/view.md), mixin的原理
     * 写了[django-rest-extensions](https://github.com/ramwin/django-rest-extensions),可以快速生成一个model的api
+    * 写了[viewflow-rest](https://github.com/ramwin/viewflow-rest)
     * 能做到APP的充分隔离，APP复用
 * [web前端](https://github.com/ramwin/html-reference) & [vue](https://github.com/ramwin/html-reference/blob/master/vue/README.md), [小程序](https://github.com/ramwin/mini-program-reference)
     * 喜欢flex布局，写代码时喜欢考虑自适应
@@ -85,7 +86,8 @@
 2014.07 - 2015.06 | **中天科技集团** | *工艺员*
 2015.06 - 2016.07 | **南京振古信息科技有限公司** | *全栈工程师*
 2016.08 - 2017.07 | **上海希格斯智能科技有限公司** | *全栈工程师*
-2017.08 - 今 | **上海小荐网络科技有限公司** | *全栈工程师*
+2017.08 - 2020.04 | **上海小荐网络科技有限公司** | *全栈工程师*
+2020.04 - 今 | **上海锐天投资管理有限公司** | *全栈工程师*
 
 
 ### 项目经验
