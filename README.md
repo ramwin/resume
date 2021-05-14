@@ -10,9 +10,8 @@
 * 电话: **18801903271**
 * 邮箱: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * 出生年月: **1992.01**
-* [stackoverflow: 2021分](https://stackoverflow.com/users/3601654/ramwin)
-* [github: 22followers](https://github.com/ramwin)
-
+* [stackoverflow: 3920分](https://stackoverflow.com/users/3601654/ramwin)
+* [github: 30 followers](https://github.com/ramwin)
 * [pypi: 7个项目](https://pypi.org/user/ramwin/)
 
 ### 教育经历

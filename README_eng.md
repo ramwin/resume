@@ -7,6 +7,8 @@
 * Cell Phone: **18801903271**
 * E-mail Address: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * Date of Birth: **1992.01**
+* [stackoverflow's reputation: 3920](https://stackoverflow.com/users/3601654/ramwin)
+* [github: 30 followers](https://github.com/ramwin)
 
 ### Education
 Time | School | Major
@@ -76,8 +78,8 @@ Time | Company | Position
 2014.07 - 2015.06 | **ZTT** | *Technologist*
 2015.06 - 2016.06 | **Nanjing Zettage Information Technology Co., Ltd** | *Full stack Developer*
 2016.08 - 2017.07 | **Shanghai Higgs Technology Co., Ltd** | *Full Stack Developer*
-2017.07 - now | **Shanghai Sharegine Network Technology Co., Ltd** | *Full Stack Developer*
-
+2017.07 - 2020.04 | **Shanghai Sharegine Network Technology Co., Ltd** | *Full Stack Developer*
+2020.04 - now | **Shanghai Ruitian Investment Management Co., Ltd** | *Full Stack Developer*
 
 
 ### Project Experience
