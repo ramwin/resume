@@ -10,8 +10,8 @@
 * 电话: **18801903271**
 * 邮箱: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * 出生年月: **1992.01**
-* [stackoverflow: 3920分](https://stackoverflow.com/users/3601654/ramwin)
-* [github: 30 followers](https://github.com/ramwin)
+* [stackoverflow: 4083分](https://stackoverflow.com/users/3601654/ramwin)
+* [github: 31 followers](https://github.com/ramwin)
 * [pypi: 7个项目](https://pypi.org/user/ramwin/)
 
 ### 教育经历
@@ -80,7 +80,7 @@
 
 ### 工作经历
 
-时间 | 公司名称 | 岗位
+时间 | 公司名称 | 岗位 | 职责 | 主要成就
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **中天科技集团** | *工艺员*
 2015.06 - 2016.07 | **南京振古信息科技有限公司** | *全栈工程师*

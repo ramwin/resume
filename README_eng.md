@@ -7,8 +7,9 @@
 * Cell Phone: **18801903271**
 * E-mail Address: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * Date of Birth: **1992.01**
-* [stackoverflow's reputation: 3920](https://stackoverflow.com/users/3601654/ramwin)
-* [github: 30 followers](https://github.com/ramwin)
+* [stackoverflow's reputation: 4083](https://stackoverflow.com/users/3601654/ramwin)
+* [github: 31 followers](https://github.com/ramwin)
+* [pypi: 7 projects](https://pypi.org/user/ramwin/)
 
 ### Education
 Time | School | Major
