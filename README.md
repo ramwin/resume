@@ -10,9 +10,9 @@
 * 电话: **18801903271**
 * 邮箱: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * 出生年月: **1992.01**
-* [stackoverflow: 4083分](https://stackoverflow.com/users/3601654/ramwin)
-* [github: 31 followers](https://github.com/ramwin)
-* [pypi: 7个项目](https://pypi.org/user/ramwin/)
+* [stackoverflow: 5793分](https://stackoverflow.com/users/3601654/ramwin)
+* [github: 41 followers](https://github.com/ramwin)
+* [pypi: 25个项目](https://pypi.org/user/ramwin/)
 
 ### 教育经历
 时间 | 学校 | 专业
@@ -21,7 +21,7 @@
 
 ### 工作技能
 * [python](https://github.com/ramwin/python-reference/)
-    * [发布过7个项目](https://pypi.org/user/ramwin/)
+    * [发布过25个项目](https://pypi.org/user/ramwin/)
     * 理解面向对象编程，编写易懂，可复用的代码
 * [django](https://github.com/ramwin/django-reference/) & [django-rest-framework](https://github.com/ramwin/django-reference/blob/master/rest-framework/README.md)  
 点击上面的django链接可以看我学习django的笔记，我是django开发学习群的群主（群号: 461214756）,欢迎您加入。
@@ -80,13 +80,14 @@
 
 ### 工作经历
 
-时间 | 公司名称 | 岗位 | 职责 | 主要成就
+时间 | 公司名称 | 岗位
 ------------ | ------------- | -------------
 2014.07 - 2015.06 | **中天科技集团** | *工艺员*
 2015.06 - 2016.07 | **南京振古信息科技有限公司** | *全栈工程师*
 2016.08 - 2017.07 | **上海希格斯智能科技有限公司** | *全栈工程师*
 2017.08 - 2020.04 | **上海小荐网络科技有限公司** | *全栈工程师*
-2020.04 - 今 | **上海锐天投资管理有限公司** | *全栈工程师*
+2020.04 - 2021.07 | **上海锐天投资管理有限公司** | *全栈工程师*
+2021.07 - 今 | **上海技术有限公司** | *全栈工程师* 
 
 
 ### 项目经验

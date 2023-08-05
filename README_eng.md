@@ -1,15 +1,15 @@
 [Chinese](./README.md)/[English](./README_eng.md)
 
 ## PERSONAL RESUME
-###  Personal Information
+### Personal Information
 * Name: **Xiang Wang**
 * Gender: **Male**
 * Cell Phone: **18801903271**
 * E-mail Address: [*ramwin@qq.com*](mailto:ramwin@qq.com)
 * Date of Birth: **1992.01**
-* [stackoverflow's reputation: 4083](https://stackoverflow.com/users/3601654/ramwin)
-* [github: 31 followers](https://github.com/ramwin)
-* [pypi: 7 projects](https://pypi.org/user/ramwin/)
+* [stackoverflow's reputation: 5793](https://stackoverflow.com/users/3601654/ramwin)
+* [github: 41 followers](https://github.com/ramwin)
+* [pypi: 25 projects](https://pypi.org/user/ramwin/)
 
 ### Education
 Time | School | Major
@@ -80,7 +80,8 @@ Time | Company | Position
 2015.06 - 2016.06 | **Nanjing Zettage Information Technology Co., Ltd** | *Full stack Developer*
 2016.08 - 2017.07 | **Shanghai Higgs Technology Co., Ltd** | *Full Stack Developer*
 2017.07 - 2020.04 | **Shanghai Sharegine Network Technology Co., Ltd** | *Full Stack Developer*
-2020.04 - now | **Shanghai Ruitian Investment Management Co., Ltd** | *Full Stack Developer*
+2020.04 - 2021.07 | **Shanghai Ruitian Investment Management Co., Ltd** | *Full Stack Developer*
+2021.07 - now | **Shanghai Huawei TECHNOLOGIES Co., Ltd** | *Full Stack Developer*
 
 
 ### Project Experience
