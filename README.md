@@ -1,10 +1,10 @@
 [中文版](./README.md)/[English](./README_eng.md)  
 
 
-## 王祥的简历
+# 王祥的简历
 [下载pdf版本](https://raw.githubusercontent.com/ramwin/resume/master/resume.pdf)
 
-###  基础信息
+##  基础信息
 * 姓名: **王祥**
 * 性别: **男**
 * 电话: **18801903271**
@@ -14,12 +14,12 @@
 * [github: 41 followers](https://github.com/ramwin)
 * [pypi: 25个项目](https://pypi.org/user/ramwin/)
 
-### 教育经历
+## 教育经历
 时间 | 学校 | 专业
 ---------- | ----------- | -----------
 2010.09 - 2014.07 | **上海交通大学** | *化学化工学院*
 
-### 工作技能
+## 工作技能
 * [python](https://github.com/ramwin/python-reference/)
     * [发布过25个项目](https://pypi.org/user/ramwin/)
     * 理解面向对象编程，编写易懂，可复用的代码
@@ -56,13 +56,13 @@
 * JAVA  
 不熟, 曾使用 [guacamole](http://guacamole.incubator.apache.org/) 的API制作过一个[servlet应用](https://github.com/ramwin/my_guacamole_sample/)，实现网页上远程操作局域网内部的电脑的功能。[图片链接](https://github.com/ramwin/resume/blob/master/zettage/img/工作台.png)
 
-### 自学的课程
+## 自学的课程
 * [Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
 * [密码学](https://www.coursera.org/learn/crypto)
 * [算法导论](https://www.coursera.org/learn/algorithm-design-analysis)
 * [计算机导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
 
-### 贡献过的项目
+## 贡献过的项目
 * [**wechatpy** python的微信API项目](https://github.com/jxtech/wechatpy/)
     * [修改文档: 引到用户在合适的场景下使用session storage](https://github.com/jxtech/wechatpy/pull/362)
     * [添加新功能: 获取用户列表的generator](https://github.com/jxtech/wechatpy/pull/387)
@@ -78,19 +78,19 @@
 * [https://github.com/joke2k/faker 模拟数据生成](https://github.com/joke2k/faker/pull/769#event-1701596869)
 * [给javascript项目barrager(一个能在网页显示弹幕的项目)添加自定义字体大小功能](https://github.com/yaseng/jquery.barrager.js/pull/27)
 
-### 工作经历
+## 工作经历
 
-时间 | 公司名称 | 岗位
------------- | ------------- | -------------
-2014.07 - 2015.06 | **中天科技集团** | *工艺员*
-2015.06 - 2016.07 | **南京振古信息科技有限公司** | *全栈工程师*
-2016.08 - 2017.07 | **上海希格斯智能科技有限公司** | *全栈工程师*
-2017.08 - 2020.04 | **上海小荐网络科技有限公司** | *全栈工程师*
-2020.04 - 2021.07 | **上海锐天投资管理有限公司** | *全栈工程师*
-2021.07 - 今 | **上海华为技术有限公司** | *全栈工程师* 
+时间 | 公司名称 | 岗位 | 技术挑战
+------------ | ------------- | ------------- | ------
+2014.07 - 2015.06 | **中天科技集团** | *工艺员* | 自学密码学
+2015.06 - 2016.07 | **南京振古信息科技有限公司** | *全栈工程师* | 独立完成项目前后端开发部署运维,管理10人团队
+2016.08 - 2017.07 | **上海希格斯智能科技有限公司** | *全栈工程师* | 深入学习django-rest-framework,完成会议室系统,招聘系统
+2017.08 - 2020.04 | **上海小荐网络科技有限公司** | *全栈工程师* | 大量拆分模块项目,自动化部署,千万级数据计算
+2020.04 - 2021.07 | **上海锐天投资管理有限公司** | *全栈工程师* | 几十TB的交易数据分析处理
+2021.07 - 今 | **上海华为技术有限公司** | *全栈工程师* | 测试框架,自动化测试
 
 
-### 项目经验
+## 项目经验
 1. #### 对上智能商汇
 * 简介: 一款商务社交软件，用户可以在这里匹配到最适合的商业伙伴，轻松拓宽自己的人脉。
 * 利用django-rest-framework做基本的crud接口
@@ -129,7 +129,7 @@
 * 音乐管理项目。充分利用git，实现了用代码去写重复代码。
 * 爬虫项目。用scrapy爬过十几种网站。最多只涉及cookie,header的模拟，没涉及过反验证码。
 
-### 自我评价
+## 自我评价
 * 自学能力强(自学django, mysql, javascript);
 * 热爱编程，善于动手;
 * 英语不错，可以无障碍地看英文资料,文档;
