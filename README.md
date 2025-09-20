@@ -1,5 +1,8 @@
 # 王祥的简历
-[下载pdf版本](https://raw.githubusercontent.com/ramwin/resume/master/resume.pdf)
+[下载pdf版本](https://raw.githubusercontent.com/ramwin/resume/master/resume.pdf)  
+[国内访问](http://resume.ramwin.com/README.html)  
+[github访问](https://github.com/ramwin/resume/)  
+
 
 ##  基础信息
 * 姓名: 王祥
