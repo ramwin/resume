@@ -1,7 +1,9 @@
 # 王祥的简历
-[下载pdf版本](https://raw.githubusercontent.com/ramwin/resume/master/resume.pdf)  
-[国内访问](http://resume.ramwin.com/README.html)  
+[github下载pdf版本](https://raw.githubusercontent.com/ramwin/resume/master/王祥的简历-上海交通大学-全栈工程师-10年.pdf)  
 [github访问](https://github.com/ramwin/resume/)  
+
+[国内下载pdf版本](./王祥的简历-上海交通大学-全栈工程师-10年.pdf)  
+[国内访问](http://resume.ramwin.com/README.html)  
 
 
 ##  基础信息
