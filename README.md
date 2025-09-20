@@ -20,12 +20,12 @@
 
 时间 | 公司名称 | 岗位 | 技术挑战
 ------------ | ------------- | ------------- | ------
-2014.07 至<br> 2015.06 | 中天科技集团 | *工艺员* | 自学密码学
+2014.07 至<br> 2015.06 | 中天科技集团 | *工艺员* | 自学密码学,算法原理,linux运维
 2015.06 至<br> 2016.07 | 南京振古信息科技有限公司 | *全栈工程师* | 项目前后端开发部署运维<br>管理10人团队
 2016.08 至<br> 2017.07 | 上海希格斯智能科技有限公司 | *全栈工程师* | 深入理解DRF<br>完成会议室系统,招聘系统
 2017.08 至<br> 2020.04 | 上海小荐网络科技有限公司 | *全栈工程师* | 大量拆分模块项目<br>千万级数据计算,秒级计算
 2020.04 至<br> 2021.07 | 上海锐天投资管理有限公司 | *全栈工程师* | 几十TB交易数据处理<br> 数据并发处理分析框架
-2021.07 至<br> 今 | 上海华为技术有限公司 | *全栈工程师* | 测试框架,每日自动化测试
+2021.07 至<br> 今 | 上海华为技术有限公司 | *全栈工程师* | 测试框架,每日自动化测试<br>上亿级别数据处理
 
 ## 项目经验
 
@@ -53,7 +53,6 @@
 
 #### LTE 4G无线产品部性能网站(2021.07~2022.12)
 * 个人职责: 项目负责人, 全栈工程师
-* 带队人数: 0人
 * 项目简介:
 实现每日版本的性能数据全自动测试,归档,对比分析.  
 提供通用工具方便开发测试各种编译参数的性能(CPU占用率,IPC,内存占比,cache miss率)   
@@ -66,14 +65,31 @@
     4. 任务流程非常长,执行可靠新差,容易报错怎么办(利用后端保存各个任务进度,支持每个任务的单独执行)
 
 ### 上海锐天投资管理有限公司
-#### 锐天内部OA系统
-* 基金跟踪系统
-* 投资人合规审查系统
-* 分红系统
-* 数据清洗
-* 打新系统
+主要做公司内部OA系统和数据清洗对比工作  
 
-### 对上智能商汇
+* 基金调整项目
+    对一个组内的多个同类基金进行资产判断,保证他们的收益曲线接近. 当持仓差异过大时生成可自定义的交易列表提醒交易员
+    * 项目难点: 多个基金的数据联动变化,需要找到最小操作次数让多个基金的持仓误差小于执行范围
+
+* 投资人合规审查系统  
+    保存所有投资人的基础信息穿透信息,对不合规的投资人进行剔除
+
+* 分红系统  
+    根据分红方式,分红频率,分红基准,利用分红记录, 实现对每个客户/每个基金分红的计算
+    * 难点
+    每种分红的方式都不一致, 需要设计一套通用的分红框架给不同分红方式
+
+* 打新系统  
+    根据邮件推送,及时提醒运营人员满足条件,即将打新的股票
+    根据交易策略,及时提醒运营人员确认打新份额,卖出时机
+    根据交易员下发的打新价格,快速生成交易所的打新规范文件
+
+* 数据清洗
+    对不同券商上TB级别的tick数据和价格数据进行统一处理, 互相之间进行验证,确保数据的可靠性.  
+    设计了一套批量任务处理框架, 利用ceph文件系统+redis部署任务, 利用公司k8s服务进行快速计算  
+    设计了一套针对pandas处理的框架, 只用修改配置就能实现不同券商数据的归一化.  
+
+### 上海小荐网络科技有限公司 -- 对上智能商汇
 * 简介: 一款商务社交软件，用户可以在这里匹配到最适合的商业伙伴，轻松拓宽自己的人脉。
 * 利用django-rest-framework做基本的crud接口
 * 主要技术: django-rest-framework, python
@@ -82,7 +98,7 @@
     2. 利用websocket做了整套的聊天机制，和网页的实时互动系统
     3. **利用redis, celery, rabbitmq处理了四千万数量级的匹配数量的任务队列和查询机制。实现了系统的推荐机制**
 
-### [内网系统](https://github.com/ramwin/resume/blob/master/higgs/)
+### 上海希格斯智能科技有限公司 [内网系统](https://github.com/ramwin/resume/blob/master/higgs/)
 * 简介: 给公司内部使用的系统
 * 主要技术: django django-rest-framework vue
 * 个人职责:
@@ -93,7 +109,7 @@
     5. **独立实现了公司的oauth系统, 接口格式照抄了微信公众号的登录认证模式** [图片链接](https://github.com/ramwin/resume/blob/master/higgs/img/oauth2.0认证系统_1.png)
     6. 和公司的exchange系统里的会议室功能联动，实现了在内网上查询预定会议室以及发送邮件通知的功能。
 
-### [数据邦](https://github.com/ramwin/resume/blob/master/zettage/README.md)
+### 南京振古信息科技有限公司 [数据邦](https://github.com/ramwin/resume/blob/master/zettage/README.md)
 * 简介: 一个云计算,云共享平台,用户可以把他们自己写的脚本,数据放入该平台,可以实现数据脚本共享,交易,在线分析等功能
 * 主要技术: django, python, docker, mysql
 * 个人职责:
@@ -110,6 +126,15 @@
 * 船舶管理平台。这个平台的接口太多了，所以我写了[django-rest-extensions](https://github.com/ramwin/django-reference/blob/master/rest-framework/README.md)代码，通过注册model，就能生成api接口
 * 音乐管理项目。充分利用git，实现了用代码去写重复代码。
 * 爬虫项目。用scrapy爬过十几种网站。最多只涉及cookie,header的模拟，没涉及过反验证码。
+
+#### solana交易系统
+实现solana交易数据的全监听, 归档流程.
+* 项目难点
+    1. 上TB级别的数据存储.
+    2. 10+台服务器的规划
+    3. 实现1000+qps的websocket推送
+    4. 实现2000+qps的交易处理
+    5. 实现ms级的交易触发
 
 ## 工作技能
 * [python](https://github.com/ramwin/python-reference/)
@@ -155,13 +180,15 @@
 * [计算机导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
 
 ## 贡献过的项目
+* [hot redis](https://github.com/ramwin/hot-redis) 在redis基础上设计了python的缓存,实现数据的快速查询
+* [django commands](https://github.com/ramwin/django-command) 常用的django命令框架,永久运行,指定时间,指定次数运行命令,支持软退出, 支持超大数据集合的分批获取
 * [**wechatpy** python的微信API项目](https://github.com/jxtech/wechatpy/)
     * [修改文档: 引到用户在合适的场景下使用session storage](https://github.com/jxtech/wechatpy/pull/362)
     * [添加新功能: 获取用户列表的generator](https://github.com/jxtech/wechatpy/pull/387)
     * [修改生成二维码的文档](https://github.com/jxtech/wechatpy/pull/434)
     * [添加支付回调时获取appid的函数](https://github.com/jxtech/wechatpy/pull/494)
 * [修复django的bug](https://github.com/django/django/pull/10497)
-* [https://github.com/tldr-pages/tldr 快速文档查看项目]
+* [tldr](https://github.com/tldr-pages/tldr) 快速文档查看项目
     * [https://github.com/tldr-pages/tldr/pull/1063](https://github.com/tldr-pages/tldr/pull/1063)
     * [https://github.com/tldr-pages/tldr/pull/1289](https://github.com/tldr-pages/tldr/pull/1289)
     * [https://github.com/tldr-pages/tldr/pull/2101](https://github.com/tldr-pages/tldr/pull/2101)
