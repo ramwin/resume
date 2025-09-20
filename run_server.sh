@@ -5,7 +5,7 @@ rm -r _build
 
 sphinx-autobuild \
     -j auto \
-    --port 18000 \
+    --port 18005 \
     . _build/html/ \
     --re-ignore "\.mypy_cache" \
     --re-ignore "\.git"    \
