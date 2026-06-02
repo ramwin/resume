@@ -42,16 +42,6 @@ Total: Submitted 50+ PRs to various open source projects.
 
 ## Project Experience
 
-### Solana Trading Monitoring System
-Independently designed and delivered mission-critical data infrastructure for a Web3 quantitative trading team.
-
-Technical Challenges:
-1. **10+TB** database management and storage optimization using token-based sharding and hot/cold data hierarchy
-2. automated task load balancing on 10+ high performance servers, with data redundancy backup
-3. **1,000+ QPS** WebSocket push notifications
-4. **2,000+ QPS** transaction query processing
-5. Millisecond-level trading monitoring triggers (address tracking, price plummeted, high-quality user position building)
-
 ### Huawei Technologies Co., Ltd.
 
 #### Performance Monitoring & Testing Platform
