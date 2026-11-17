@@ -1,2 +1,4 @@
 *.swp
 *~
+.venv-pdf
+_build

@@ -1,14 +1,11 @@
-.. python-reference documentation master file, created by
-   sphinx-quickstart on Tue Mar 26 23:32:59 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. 王祥的简历 documentation master file
 
-Welcome to python-reference's documentation!
-============================================
+王祥的简历
+==========
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+   :caption: 目录:
 
    ./README.md
 
